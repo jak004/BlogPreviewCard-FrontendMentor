@@ -74,5 +74,5 @@ This project was recreated from the provided design reference.
 
 **Julius Kwaku Antwi**
 
-GitHub: [YOUR-GITHUB-USERNAME](https://github.com/YOUR-GITHUB-USERNAME)
+GitHub: [YOUR-GITHUB-USERNAME](https://github.com/jak004)
 LinkedIn: [YOUR-LINKEDIN-PROFILE](https://www.linkedin.com/in/julius-antwi-942b32221/)
